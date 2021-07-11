@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d0a050b.chunk.css",
+    "main.js": "/static/js/main.c3705582.chunk.js",
+    "main.js.map": "/static/js/main.c3705582.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9da65a6b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9da65a6b.js.map",
+    "static/js/2.7cd77fdc.chunk.js": "/static/js/2.7cd77fdc.chunk.js",
+    "static/js/2.7cd77fdc.chunk.js.map": "/static/js/2.7cd77fdc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4d0a050b.chunk.css.map": "/static/css/main.4d0a050b.chunk.css.map",
+    "static/js/2.7cd77fdc.chunk.js.LICENSE.txt": "/static/js/2.7cd77fdc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/IRANSans_Medium.b4e66795.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9da65a6b.js",
+    "static/js/2.7cd77fdc.chunk.js",
+    "static/css/main.4d0a050b.chunk.css",
+    "static/js/main.c3705582.chunk.js"
+  ]
+}
